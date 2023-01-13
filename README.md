@@ -7,3 +7,6 @@ As its name suggests it will track the price of the product from the link (Amazo
 Tech used :
 
   NODEJS | HTML | CSS | JAVASCRIPT
+  
+  
+![img](https://user-images.githubusercontent.com/88222961/212422590-96ecb0ae-8ae7-4db1-b7d8-b97e6cf66ba4.jpg)
