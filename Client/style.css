@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+      body {
+        font-family: sans-serif;
+      }
+
+      form {
+        max-width: 500px;
+        margin: 0 auto;
+        text-align: center;
+      }
+
+      input {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 4px;
+      }
+
+      button {
+        background-color: #4caf50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+      }
+
+      .success {
+        color: green;
+        text-align: center;
+      }
+
+      .error {
+        color: red;
+        text-align: center;
+      }
+
+      #notification{
+        text-align: center;
+      }
