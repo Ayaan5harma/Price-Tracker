@@ -1,4 +1,6 @@
 const express = require('express');
+const dotenv = require('dotenv');
+dotenv.config();
 const puppeteer = require('puppeteer')
 const cheerio = require('cheerio');
 const nodemailer = require('nodemailer')
